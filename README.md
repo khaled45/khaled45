@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaled Kamal</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<h4 align="center">🤝 I’m looking for new challenge as <span style="color:#457b9d"> **MEAN Stack Developer** </span></h4>
+<h4 align="center">🤝 I’m looking for new challenge as <b style="color:red"> MEAN Stack Developer </b></h4>
 
 - 🔭 I’m currently working on **Tamauze for Digital solutions**
 
